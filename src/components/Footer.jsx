@@ -1,6 +1,6 @@
 
-const currentYear = new Date().getFullYear
 const gitHubUrl = "https://github.com/daniellancheros"
+const currentYear = new Date().getFullYear();
 
 export default function Footer() {
     return (
